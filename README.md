@@ -20,13 +20,4 @@ The goal of this repository is to provide practical examples that strengthen the
 - **School Management (Structure Approach)**: Uses structures to organize and manage student and teacher information.  
 - **Student Management System**: A program to store, update, and display student records efficiently.  
 
----
-
-## 🔗 Repository Links
-
-- **View Repository on GitHub**: [Programming-Fundamentals-Projects](https://github.com/Muhammad-Habib783/Programming-Fundamentals-Projects)
-
-- **Clone with Git**:
-  ```bash
-  git clone https://github.com/Muhammad-Habib783/Programming-Fundamentals-Projects.git
 
